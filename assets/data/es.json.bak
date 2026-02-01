@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "language": "Español",
+    "code": "es",
+    "flag": "https://flagcdn.com/w20/co.png"
+  },
+  "navigation": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "services": "Servicios",
+    "portfolio": "Portafolio",
+    "contact": "Contacto",
+    "blog": "Blog",
+    "shop": "Tienda",
+    "pages": "Páginas"
+  },
+  "buttons": {
+    "quote": "Cotizar",
+    "start": "Comenzar",
+    "contact": "Contáctenos",
+    "read_more": "Leer Más",
+    "send_message": "Enviar Mensaje",
+    "subscribe": "Suscribirse",
+    "view_all": "Ver Todo",
+    "learn_more": "Saber Más"
+  },
+  "hero": {
+    "subtitle": "Soluciones integrales de ingeniería desde 2017",
+    "title_1": "BMP Company",
+    "title_2": "S.A.S.",
+    "description": "Transformamos ideas en realidad con soluciones innovadoras en ingeniería y tecnología."
+  },
+  "sections": {
+    "offer": {
+      "title": "LO QUE OFRECEMOS",
+      "subtitle": "Ofrecemos servicios de calidad para nuestros clientes"
+    },
+    "about": {
+      "title": "SOMOS BMP COMPANY S.A.S.",
+      "subtitle": "Soluciones integrales de ingeniería y tecnología",
+      "description": "Desde 2017, BMP Company S.A.S. ha sido líder en Colombia brindando soluciones innovadoras en ingeniería y tecnología. Nuestro compromiso es la excelencia y la satisfacción de nuestros clientes."
+    },
+    "portfolio": {
+      "title": "VER NUESTRO PORTAFOLIO",
+      "subtitle": "Proyectos increíbles realizados por nosotros"
+    },
+    "features": {
+      "title": "CARACTERÍSTICAS",
+      "subtitle": "Por qué elegirnos"
+    },
+    "counter": {
+      "title": "Estado de Nuestra Empresa",
+      "subtitle": "Confiable y seguro"
+    },
+    "team": {
+      "title": "CONOCE A NUESTRO EQUIPO",
+      "subtitle": "Nuestro equipo"
+    },
+    "contact": {
+      "title": "CONTÁCTANOS",
+      "subtitle": "¿Tienes un proyecto que discutir?"
+    },
+    "pricing": {
+      "title": "NUESTROS PLANES",
+      "subtitle": "Planes adaptados a ti"
+    },
+    "blog": {
+      "title": "ÚLTIMAS NOTICIAS",
+      "subtitle": "Lee nuestro blog"
+    }
+  },
+  "services": {
+    "electronic_security": {
+      "title": "Seguridad Electrónica",
+      "description": "Sistemas de CCTV, control de acceso y alarmas para proteger tu empresa."
+    },
+    "water_treatment": {
+      "title": "Tratamiento de Agua",
+      "description": "Soluciones de purificación y tratamiento de agua para diversos sectores."
+    },
+    "data_centers": {
+      "title": "Data Centers",
+      "description": "Diseño y construcción de centros de datos de alta disponibilidad."
+    },
+    "structured_cabling": {
+      "title": "Cableado Estructurado",
+      "description": "Instalación profesional de redes de cableado estructurado."
+    },
+    "electrical": {
+      "title": "Instalaciones Eléctricas",
+      "description": "Sistemas eléctricos residenciales, comerciales e industriales."
+    },
+    "wifi_networks": {
+      "title": "Redes Wi-Fi",
+      "description": "Diseño e implementación de redes inalámbricas empresariales."
+    },
+    "audio_video": {
+      "title": "Audio y Video",
+      "description": "Sistemas de audio y video para conferencias y entretenimiento."
+    },
+    "automation": {
+      "title": "Automatización",
+      "description": "Soluciones de automatización residencial e industrial."
+    },
+    "solar_panels": {
+      "title": "Paneles Solares",
+      "description": "Instalación de sistemas de energía solar fotovoltaica."
+    }
+  },
+  "contact_info": {
+    "address": "Colombia",
+    "email": "info@bmpglobalcorp.com",
+    "phone": "+57 XXX XXX XXXX",
+    "working_hours": "Lunes - Viernes: 8:00 AM - 6:00 PM"
+  },
+  "footer": {
+    "navigation": "Navegación",
+    "services": "Servicios",
+    "newsletter": "Boletín",
+    "newsletter_text": "Recibe actualizaciones y ofertas",
+    "follow_us": "Síguenos:",
+    "copyright": "© 2025 BMP Company S.A.S. - Todos los derechos reservados",
+    "description": "BMP Company S.A.S. es una empresa colombiana dedicada a brindar soluciones integrales de ingeniería y tecnología desde 2017."
+  },
+  "forms": {
+    "name": "Nombre",
+    "email": "Correo electrónico",
+    "phone": "Teléfono",
+    "subject": "Asunto",
+    "message": "Mensaje",
+    "placeholder_name": "Tu nombre",
+    "placeholder_email": "Tu correo",
+    "placeholder_phone": "Tu teléfono",
+    "placeholder_message": "Tu mensaje"
+  },
+  "stats": {
+    "projects": "Proyectos Completados",
+    "clients": "Clientes Satisfechos",
+    "experience": "Años de Experiencia",
+    "team": "Profesionales"
+  },
+  "additional_content": {
+    "build_while_rest": "Construimos Mientras Descansas",
+    "build_better_future": "Construimos Un Mejor Futuro",
+    "comprehensive_solutions": "Soluciones integrales de ingeniería desde 2017",
+    "build_what_you_need": "Construimos todo lo que necesitas primero",
+    "what_we_provide": "LO QUE PROVEEMOS",
+    "annual_programs": "Programas Anuales",
+    "flexible_profitable": "Flexible y rentable",
+    "emergency_solutions": "Soluciones de emergencia",
+    "watch_videos": "VER VIDEOS",
+    "always_provide_quality": "Siempre brindamos servicio de alta calidad",
+    "priority_design_home": "Primera prioridad es diseñar tu hogar",
+    "society_simplified": "Sociedad por Acciones Simplificada",
+    "our_package": "Our Package",
+    "news": "News",
+    "privacy_policy": "Política de Privacidad",
+    "terms_of_use": "Términos de Uso",
+    "all_rights_reserved": "Todos los derechos reservados"
+  },
+  "faq": {
+    "win_win_survival": "¿Estrategias de supervivencia ganar-ganar?",
+    "realtime_content": "¿Contenido generado por usuarios en tiempo real?",
+    "team_commitment": "Nuestro equipo de profesionales certificados está comprometido con la excelencia y la innovación en cada proyecto que realizamos.",
+    "question": "pregunta"
+  },
+  "blog": {
+    "technology": "Tecnología",
+    "new_tech_solutions": "Nuevas soluciones tecnológicas para tu empresa",
+    "security_innovation": "Innovación en seguridad electrónica",
+    "home_automation": "Automatización y domótica para el hogar inteligente",
+    "read_our_blog": "Lee nuestro blog",
+    "read_blog_posts": "Lee nuestro blog y publicaciones"
+  },
+  "dates": {
+    "march_13_2025": "13 de Marzo, 2025",
+    "february_13_2025": "13 de Febrero, 2025", 
+    "january_13_2025": "13 de Enero, 2025"
+  }
+}

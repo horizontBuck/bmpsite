@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "language": "English",
+    "code": "en",
+    "flag": "https://flagcdn.com/w20/us.png"
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "contact": "Contact",
+    "blog": "Blog",
+    "shop": "Shop",
+    "pages": "Pages"
+  },
+  "buttons": {
+    "quote": "Get a Quote",
+    "start": "Get Started",
+    "contact": "Contact Us",
+    "read_more": "Read More",
+    "send_message": "Send Message",
+    "subscribe": "Subscribe",
+    "view_all": "View All",
+    "learn_more": "Learn More"
+  },
+  "hero": {
+    "subtitle": "Comprehensive engineering solutions since 2017",
+    "title_1": "BMP Company",
+    "title_2": "S.A.S.",
+    "description": "We transform ideas into reality with innovative engineering and technology solutions."
+  },
+  "sections": {
+    "offer": {
+      "title": "WHAT WE OFFER",
+      "subtitle": "We offer quality services for our clients"
+    },
+    "about": {
+      "title": "WE ARE BMP COMPANY S.A.S.",
+      "subtitle": "Comprehensive engineering and technology solutions",
+      "description": "Since 2017, BMP Company S.A.S. has been a leader in Colombia providing innovative engineering and technology solutions. Our commitment is excellence and customer satisfaction."
+    },
+    "portfolio": {
+      "title": "CHECK OUR PORTFOLIO",
+      "subtitle": "Amazing projects completed by us"
+    },
+    "features": {
+      "title": "FEATURES",
+      "subtitle": "Why choose us"
+    },
+    "counter": {
+      "title": "Our Company Status",
+      "subtitle": "Trustworthy & reliable"
+    },
+    "team": {
+      "title": "MEET WITH OUR TEAM",
+      "subtitle": "Our team members"
+    },
+    "contact": {
+      "title": "CONTACT US ANYTIME",
+      "subtitle": "Do you have a project to discuss?"
+    },
+    "pricing": {
+      "title": "OUR PRICING PLAN",
+      "subtitle": "Plans tailored to you"
+    },
+    "blog": {
+      "title": "OUR LATEST BLOG",
+      "subtitle": "Read our blog & posts"
+    }
+  },
+  "services": {
+    "electronic_security": {
+      "title": "Electronic Security",
+      "description": "CCTV systems, access control and alarms to protect your business."
+    },
+    "water_treatment": {
+      "title": "Water Treatment",
+      "description": "Water purification and treatment solutions for various sectors."
+    },
+    "data_centers": {
+      "title": "Data Centers",
+      "description": "Design and construction of high availability data centers."
+    },
+    "structured_cabling": {
+      "title": "Structured Cabling",
+      "description": "Professional installation of structured cabling networks."
+    },
+    "electrical": {
+      "title": "Electrical Installations",
+      "description": "Residential, commercial and industrial electrical systems."
+    },
+    "wifi_networks": {
+      "title": "Wi-Fi Networks",
+      "description": "Design and implementation of enterprise wireless networks."
+    },
+    "audio_video": {
+      "title": "Audio & Video",
+      "description": "Audio and video systems for conferences and entertainment."
+    },
+    "automation": {
+      "title": "Automation",
+      "description": "Residential and industrial automation solutions."
+    },
+    "solar_panels": {
+      "title": "Solar Panels",
+      "description": "Installation of photovoltaic solar energy systems."
+    }
+  },
+  "contact_info": {
+    "address": "Colombia",
+    "email": "info@bmpglobalcorp.com",
+    "phone": "+57 XXX XXX XXXX",
+    "working_hours": "Monday - Friday: 8:00 AM - 6:00 PM"
+  },
+  "footer": {
+    "navigation": "Navigation",
+    "services": "Services",
+    "newsletter": "Newsletter",
+    "newsletter_text": "Get latest updates and offers",
+    "follow_us": "Follow us:",
+    "copyright": "© 2025 BMP Company S.A.S. - All rights reserved",
+    "description": "BMP Company S.A.S. is a Colombian company dedicated to providing comprehensive engineering and technology solutions since 2017."
+  },
+  "forms": {
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "subject": "Subject",
+    "message": "Message",
+    "placeholder_name": "Your name",
+    "placeholder_email": "Your email",
+    "placeholder_phone": "Your phone",
+    "placeholder_message": "Your message"
+  },
+  "stats": {
+    "projects": "Projects Completed",
+    "clients": "Satisfied Clients",
+    "experience": "Years of Experience",
+    "team": "Professionals"
+  },
+  "additional_content": {
+    "build_while_rest": "Build While You Rest",
+    "build_better_future": "Build a Better Future",
+    "comprehensive_solutions": "Comprehensive engineering solutions since 2017",
+    "build_what_you_need": "We build everything you need first",
+    "what_we_provide": "WHAT WE PROVIDE",
+    "annual_programs": "Annual Programs",
+    "flexible_profitable": "Flexible and profitable",
+    "emergency_solutions": "Emergency solutions",
+    "watch_videos": "WATCH VIDEOS",
+    "always_provide_quality": "We always provide high quality service",
+    "priority_design_home": "Priority is to design your home",
+    "society_simplified": "Simplified Stock Company",
+    "our_package": "Our Package",
+    "news": "News",
+    "privacy_policy": "Privacy Policy",
+    "terms_of_use": "Terms of Use",
+    "all_rights_reserved": "All rights reserved"
+  },
+  "faq": {
+    "win_win_survival": "Win-Win Survival Strategies?",
+    "realtime_content": "Real-time User Generated Content?",
+    "team_commitment": "Our team of certified professionals is committed to excellence and innovation in every project we undertake.",
+    "question": "question"
+  },
+  "blog": {
+    "technology": "Technology",
+    "new_tech_solutions": "New technological solutions for your company",
+    "security_innovation": "Innovation in electronic security",
+    "home_automation": "Automation and home automation for smart homes",
+    "read_our_blog": "Read our blog",
+    "read_blog_posts": "Read our blog & posts"
+  },
+  "dates": {
+    "march_13_2025": "March 13, 2025",
+    "february_13_2025": "February 13, 2025",
+    "january_13_2025": "January 13, 2025"
+  }
+}
